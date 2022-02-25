@@ -1,7 +1,7 @@
 ---
 name: Starcheat Feature Request
 about: Suggest a feature to help development
-title: "[FEATURE REQUEST]"
+title: "[FEATURE REQUEST] TITLE HERE"
 labels: ''
 assignees: ''
 
