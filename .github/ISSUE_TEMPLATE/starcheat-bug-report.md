@@ -1,7 +1,7 @@
 ---
 name: Starcheat Bug Report
 about: Create a bug report to help us fix your issue
-title: "[BUG]"
+title: "[BUG] TITLE HERE"
 labels: ''
 assignees: ''
 
