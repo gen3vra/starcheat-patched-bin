@@ -11,7 +11,7 @@ This is the only official release distribution source of Starcheat and all Starc
 ### Preview
 ![Starcheat 1.4 preview image](https://github.com/gen3vra/starcheat-patched-bin/blob/main/preview1.png?raw=true "starcheat preview")
 
-![Starcheat 1.4 preview image](https://github.com/gen3vra/starcheat-patched-bin/blob/main/previewCustomTheme.png?raw=true "starcheat preview")
+![Starcheat 1.4 custom theme preview image](https://github.com/gen3vra/starcheat-patched-bin/blob/main/previewCustomTheme.png?raw=true "starcheat custom dark theme preview")
 
 
 
