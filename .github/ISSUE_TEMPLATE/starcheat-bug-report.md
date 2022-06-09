@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+_Describe your issue here!_
 
 **To Reproduce**
 Steps to reproduce the behavior:
@@ -16,17 +16,22 @@ Steps to reproduce the behavior:
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
+_Include HOW this error happened here_
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+_Add a clear and concise description of what you expected to happen_
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+_Always include a screenshot_
 
 **Environment (please MAKE SURE this is accurate):**
  - OS: [e.g. Windows/Mac]
+- OS Version: [eg: 21H2] (WIN + R; type 'winver')
  - Player species:
  - Starcheat Version:
 
+**Player File (if applicable)**
+_If you've experienced a player issue, include a reproducible player file here_
+
 **Additional context/Clarification questions** _IF NEEDED_
-Add any other context about the problem here.
+_Add any other context about the problem here!_
