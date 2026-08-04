@@ -1,7 +1,6 @@
 # [starcheat.net](https://starcheat.net)
-
+# [Click here](https://github.com/gen3vra/starcheat-patched-bin/releases) to go download the latest release.
 ### Yes, this works with Starbound 1.4.4
-[Click here](https://github.com/gen3vra/starcheat-patched-bin/releases) to go download the latest release.
 
 ### About
 The asset loading and character parsing have been updated and fixed. Load speeds for the characters are magnitudes faster than previous versions. Beyond that, tons of other changes have been made and are planned.
